@@ -1,6 +1,7 @@
 namespace srp.ISP.Interfaces
 {
-    internal interface IFlyable
+    public interface IFlyable
     {
+        void Fly(int distance, int altitude);
     }
 }
