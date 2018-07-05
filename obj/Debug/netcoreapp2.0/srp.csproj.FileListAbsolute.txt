@@ -1,0 +1,11 @@
+C:\Users\rippl\OneDrive\C#\Videos\Safari\DesignPatterns\srp\bin\Debug\netcoreapp2.0\srp.deps.json
+C:\Users\rippl\OneDrive\C#\Videos\Safari\DesignPatterns\srp\bin\Debug\netcoreapp2.0\srp.runtimeconfig.json
+C:\Users\rippl\OneDrive\C#\Videos\Safari\DesignPatterns\srp\bin\Debug\netcoreapp2.0\srp.runtimeconfig.dev.json
+C:\Users\rippl\OneDrive\C#\Videos\Safari\DesignPatterns\srp\bin\Debug\netcoreapp2.0\srp.dll
+C:\Users\rippl\OneDrive\C#\Videos\Safari\DesignPatterns\srp\bin\Debug\netcoreapp2.0\srp.pdb
+C:\Users\rippl\OneDrive\C#\Videos\Safari\DesignPatterns\srp\obj\Debug\netcoreapp2.0\srp.csprojAssemblyReference.cache
+C:\Users\rippl\OneDrive\C#\Videos\Safari\DesignPatterns\srp\obj\Debug\netcoreapp2.0\srp.csproj.CoreCompileInputs.cache
+C:\Users\rippl\OneDrive\C#\Videos\Safari\DesignPatterns\srp\obj\Debug\netcoreapp2.0\srp.AssemblyInfoInputs.cache
+C:\Users\rippl\OneDrive\C#\Videos\Safari\DesignPatterns\srp\obj\Debug\netcoreapp2.0\srp.AssemblyInfo.cs
+C:\Users\rippl\OneDrive\C#\Videos\Safari\DesignPatterns\srp\obj\Debug\netcoreapp2.0\srp.dll
+C:\Users\rippl\OneDrive\C#\Videos\Safari\DesignPatterns\srp\obj\Debug\netcoreapp2.0\srp.pdb
