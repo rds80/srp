@@ -5,6 +5,7 @@ using static System.Console;
 using srp.ISP;
 using srp.SRPOCP;
 using srp.LSP;
+using srp.DI;
 
 namespace srp
 {
@@ -12,7 +13,15 @@ namespace srp
     {
         static void Main(string[] args)
         {
-            RunLSPExample();
+            //RunLSPExample();
+            RunDIExample();
+        }
+
+        private static void RunDIExample()
+        {
+            var manager = new PostManager(new MockPostsService());
+            manager.FilterPosts().Wait();
+            Read();
         }
 
         private async static Task testCountries()
